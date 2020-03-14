@@ -1,6 +1,9 @@
 # SARS-Cov-2
 Corona Virus a pandemic in the eye of a programmer
-\
+![Corona](https://github.com/riyadhuddin/SARS-Cov-2/blob/master/img/cov19.jpeg)
+
+Read my blog [Corona Virus the clean explanation ever.](https://medium.com/@riyadhuddin/corona-virus-the-clean-explanation-ever-466e7f50c4bc)
+
 
 \
 
